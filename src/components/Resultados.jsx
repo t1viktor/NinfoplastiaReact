@@ -9,10 +9,10 @@ export default function Resultados() {
             <div className="grid grid-cols-2 max-lg:grid-cols-1 justify-items-center items-center gap-12">
                 <div className="space-y-12 justify-items-center items-center">
                     <h2 className="text-blue-500 text-4xl">Transformação Completa</h2>
-                    <p className="text-gray-50 text-center">Os resultados da mastopexia com prótese são visíveis logo após a cirurgia, com a evolução completa ocorrendo em até 6 meses.</p>
+                    <p className="text-gray-50 text-center">Os resultados da ninfoplastia são visíveis após a recuperação inicial, com a evolução completa ocorrendo em até 6 meses.</p>
                     <ul className="text-gray-50 space-y-5">
-                        <li className="relative before:content-['✔']">Mamas mais firmes, elevadas e com volume harmonioso</li>
-                        <li className="relative before:content-['✔']">Contorno natural e proporcional ao corpo</li>
+                        <li className="relative before:content-['✔']">Conforto e estética aprimorados</li>
+                        <li className="relative before:content-['✔']">Forma e simetria dos pequenos lábios corrigidas</li>
                         <li className="relative before:content-['✔']">Melhora significativa na autoestima e confiança</li>
                         <li className="relative before:content-['✔']">Resultados duradouros e satisfatórios</li>
                     </ul>
@@ -23,12 +23,12 @@ export default function Resultados() {
 
                     <div className="cardResultados">
                         <h2 className="cardNum text-gray-100 text-5xl font-semibold">7</h2>
-                        <p className="text-gray-400 text-xl">Dias de Recuperação Inicial</p>
+                        <p className="text-gray-400 text-xl max-lg:text-lg">Dias de Repouso Relativo</p>
                     </div>
 
                     <div className="cardResultados">
                         <h2 className="cardNum text-gray-100 text-5xl font-semibold">6</h2>
-                        <p className="text-gray-400 text-xl">Meses para Resultado Final</p>
+                        <p className="text-gray-400 text-xl max-lg:text-lg ">Semanas para Retomar Atividades</p>
                     </div>
                 </div>
             </div>

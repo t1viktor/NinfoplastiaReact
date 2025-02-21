@@ -1,17 +1,17 @@
-const descProcedimento = "A mastopexia com prótese é um procedimento cirúrgico que combina o levantamento dos seios com a colocação de próteses de silicone, visando melhorar o volume, o contorno e a firmeza das mamas, proporcionando resultados estéticos harmoniosos e maior confiança.";
+const descProcedimento = "A ninfoplastia, também conhecida como labioplastia, é um procedimento cirúrgico destinado a reduzir ou corrigir a forma dos pequenos lábios vaginais, proporcionando maior conforto, satisfação estética e funcional. O pós-operatório exige cuidados específicos para garantir uma recuperação tranquila e resultados duradouros.";
 
 const tituloProcCard01 = "Avaliação Inicial";
 const tituloProcCard02 = "Preparação";
 const tituloProcCard03 = "Procedimento";
 const tituloProcCard04 = "Recuperação";
 
-const descProcCard01 = "Avaliação das mamas e definição do plano cirúrgico personalizado, considerando expectativas e saúde do paciente.";
+const descProcCard01 = "Avaliação da região íntima e definição do plano cirúrgico, considerando expectativas e saúde da paciente.";
 
 const descProcCard02 = "Exames pré-operatórios e orientações sobre dieta, medicamentos e preparação física e emocional para a cirurgia.";
 
-const descProcCard03 = "Cirurgia para levantar as mamas e posicionar próteses de silicone, com técnicas personalizadas para resultados naturais.";
+const descProcCard03 = "Cirurgia para reduzir ou remodelar os pequenos lábios vaginais, com técnicas precisas para resultados estéticos e funcionais.";
 
-const descProcCard04 = "Cuidados pós-operatórios com cicatrizes, uso de sutiã especial, alimentação e atividades para recuperação segura.";
+const descProcCard04 = "Cuidados pós-operatórios incluem repouso, higiene íntima, uso de malhas compressivas (se indicadas) e abstinência sexual por 4 a 6 semanas.";
 
 export default function Procedimento() {
     return (

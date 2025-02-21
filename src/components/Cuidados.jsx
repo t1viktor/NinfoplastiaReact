@@ -22,8 +22,7 @@ export default function Cuidados() {
                     <ul className="ulCardCuidados">
                         <li className="liCardCuidados">{card01.li01}</li>
                         <li className="liCardCuidados">{card01.li02}</li>
-                        <li className="liCardCuidados">{card01.li03}</li>
-                        <li className="liCardCuidados">{card01.li04}</li>
+                       
                     </ul>
                     <Modal01 />
                 </div>
@@ -58,7 +57,7 @@ export default function Cuidados() {
                         <li className="liCardCuidados">{card04.li01}</li>
                         <li className="liCardCuidados">{card04.li02}</li>
                         <li className="liCardCuidados">{card04.li03}</li>
-                        <li className="liCardCuidados">{card04.li04}</li>
+                     
                     </ul>
                     <Modal04 />
                 </div>
@@ -80,7 +79,7 @@ export default function Cuidados() {
                     <ul className="ulCardCuidados">
                         <li className="liCardCuidados">{card06.li01}</li>
                         <li className="liCardCuidados">{card06.li02}</li>
-                        <li className="liCardCuidados">{card06.li03}</li>
+                        
                         
                     </ul>
                     <Modal06 />
@@ -92,8 +91,7 @@ export default function Cuidados() {
                     <ul className="ulCardCuidados">
                         <li className="liCardCuidados">{card07.li01}</li>
                         <li className="liCardCuidados">{card07.li02}</li>
-                        <li className="liCardCuidados">{card07.li03}</li>
-                        <li className="liCardCuidados">{card07.li04}</li>
+                        
                     </ul>
                     <Modal07 />
                 </div>
@@ -105,6 +103,8 @@ export default function Cuidados() {
                         <li className="liCardCuidados">{card08.li01}</li>
                         <li className="liCardCuidados">{card08.li02}</li>
                         <li className="liCardCuidados">{card08.li03}</li>
+                        <li className="liCardCuidados">{card08.li04}</li>
+                        <li className="liCardCuidados">{card08.li05}</li>
 
                         
                     </ul>

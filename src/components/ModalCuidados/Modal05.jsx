@@ -54,18 +54,20 @@ export default function Modal03() {
             {card05.h2Modal}
             </p>
 
+              
             <ul className="cardAlert text-gray-100 list-disc liCardCuidados mx-6 text-left">
-              <h2 className="pModalCuidados">{card05.li01}</h2>
+              <h2 className="pModalCuidados text-center">Malha Íntima de Compressão </h2>
               <li>{card05.desc01}</li>
               <li>{card05.desc02}</li>
-              <li>{card05.desc03}</li>
+          
            
             </ul>
 
             <ul className="cardAlert text-gray-100 list-disc liCardCuidados mx-6 text-left">
-              <h2 className="pModalCuidados">{card05.li02}</h2>
+              <h2 className="pModalCuidados text-center">{card05.li02}</h2>
+              <li>{card05.desc03}</li>
               <li>{card05.desc04}</li>
-            <li>{card05.desc05}</li>
+           
             </ul>
 
             </div>
